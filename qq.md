@@ -292,8 +292,8 @@ https://github.com/jsfront/qa/tree/master/2015/07/03
 - [bt编码规范](http://codeguide.bootcss.com/)
 - [规范加强版](https://github.com/Suxiaogang/Code_Guide)
 - [前端代码规范 及 最佳实践](http://blog.jobbole.com/79075/)
-- [百度前端规范](http://coderlmn.github.io/code-standards/)
-- [百度前端规范](http://isobar-idev.github.io/code-standards/)
+- [百度前端规范(中文)](http://coderlmn.github.io/code-standards/)
+- [百度前端规范(英文)](http://isobar-idev.github.io/code-standards/)
 - [百度前端规范](http://zhuanlan.zhihu.com/fuyun/19884834)
 - [【敏捷开发】Android团队开发规范](http://www.cnblogs.com/lcw/p/3619181.html)
 
